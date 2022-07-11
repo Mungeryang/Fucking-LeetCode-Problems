@@ -5,8 +5,6 @@
 #         self.left = left
 #         self.right = right
 #递归解法
-from turtle import right
-
 
 class Solution:
     def preorderTraversal(self, root):
