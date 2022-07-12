@@ -1,3 +1,4 @@
+#单链表设计
 class Solution:
     def isPalindrome(self, head) -> bool:
         length = 0
