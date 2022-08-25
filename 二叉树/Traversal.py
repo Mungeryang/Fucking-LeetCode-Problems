@@ -89,3 +89,6 @@ class Solution(object):
         #从主根节点开始判断
         traversal(root)
         return res
+    
+#主要解决遍历函数即可完成二叉树的遍历
+#会写遍历函数
